@@ -15,6 +15,7 @@ conn.connect(function(err) {
         throw err;
     }else{
         console.log('Conexión a la base de datos exitosa!');
+
     }
 });
 
